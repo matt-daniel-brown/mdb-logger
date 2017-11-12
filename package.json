@@ -1,0 +1,24 @@
+{
+  "name": "mdb-logger",
+  "version": "1.0.0",
+  "description": "NPM package that adds functionality to Console.log.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-daniel-brown/mdb-logger.git"
+  },
+  "keywords": [
+    "npm",
+    "log",
+    "console"
+  ],
+  "author": "Matt Daniel Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matt-daniel-brown/mdb-logger/issues"
+  },
+  "homepage": "https://github.com/matt-daniel-brown/mdb-logger#readme"
+}
