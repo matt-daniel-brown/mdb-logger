@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/matt-daniel-brown/mdb-logger/issues"
   },
-  "homepage": "https://github.com/matt-daniel-brown/mdb-logger#readme"
+  "homepage": "https://github.com/matt-daniel-brown/mdb-logger#readme",
+  "dependencies": {
+    "chalk": "2.3.0"
+  }
 }
